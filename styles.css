@@ -1,24 +1,23 @@
 .header {
-	text-align: left;
-	background: #000;
-	width: 100%;
-	height: 30px;
-	position: fixed;
+  text-align: left;
+  background: #000;
+  width: 100%;
+  height: 30px;
+  position: fixed;
 }
 
 .smallImage {
-	width: 200px;
-	height: 200px;
+  width: 200px;
+  height: 200px;
 }
 
 .main {
-	background-color: #1d75de;
+  background-color: #1d75de;
+  padding-top: 60px;
+  padding-bottom: 0;
 }
 
 .spot-logo {
-	width: 100px;
-	height: 100px;
+  width: 100px;
+  height: 100px;
 }
-
-
-
